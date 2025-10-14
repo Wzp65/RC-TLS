@@ -8,7 +8,7 @@ Repo for paper "Retrieval-Augmented Event Detection Combined with A Novel Co-Ref
 To download datasets T17, please refer to [complementizer/news-tls ](https://github.com/complementizer/news-tls).
 
 ### Download MAVEN Dataset
-To download MAVEN datasets, please refer to [complementizer/news-tls ](https://github.com/THU-KEG/MAVEN-dataset).
+To download MAVEN datasets, please refer to [THU-KEG/MAVEN-dataset ](https://github.com/THU-KEG/MAVEN-dataset).
 
 ### Workflow
 1. To preprocess dataset articles to sentences, please refer to ```data_preprocess.py```
