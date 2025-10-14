@@ -5,7 +5,7 @@ Repo for paper "Retrieval-Augmented Event Detection Combined with A Novel Co-Ref
 ## Timeine Summarization 
 
 ### Download T17 Dataset
-To download datasets(T17, Crisis, Entities), please refer to [complementizer/news-tls ](https://github.com/complementizer/news-tls).
+To download datasets T17, please refer to [complementizer/news-tls ](https://github.com/complementizer/news-tls).
 
 ### Download MAVEN Dataset
 To download MAVEN datasets, please refer to [complementizer/news-tls ](https://github.com/THU-KEG/MAVEN-dataset).
